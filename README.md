@@ -3,5 +3,5 @@
 
 
 
-##Im dum and i cant help it
+### im dum and i cant help it
 all of my commits are just from this readme file because i cant get this to show on my profile 
