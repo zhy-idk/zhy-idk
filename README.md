@@ -1,5 +1,4 @@
-[![Zhy's GitHub stats](https://gh-stats-card.cyclic.app/api/zhy-idk)](https://github.com/zhy-idk)
-
+[![Zhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhy-idk)](https://github.com/zhy-idk)
 
 
 
